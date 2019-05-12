@@ -2,7 +2,7 @@ logger.pl
 =========
 
 **Version:** 1.0.29  
-**Status:** Fully functional, but missing tests.
+**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
