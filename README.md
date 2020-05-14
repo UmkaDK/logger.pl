@@ -1,8 +1,8 @@
 logger.pl
 =========
 
+**Status:** ARCHIVED - Fully functional, but missing tests  
 **Version:** 1.0.29  
-**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
@@ -211,15 +211,3 @@ This functions work in a similar way to the locale() described above and allow t
 ## SEE ALSO
 
 English, Carp, POSIX, Log::Log4perl, Log::Dispatch.
-
-## DONATIONS
-
-This module is 100% free and is distributed under the terms of the MIT license. You're welcome to use it for private or commercial projects and to generally do whatever you want with it.
-
-If you found this module useful, would like to support its further development, or you are just feeling generous, then your contribution will be greatly appreciated!
-
-<p align="center">
-  <a href="https://paypal.me/UmkaDK"><img src="https://img.shields.io/badge/paypal-me-blue.svg?colorB=0070ba&logo=paypal" alt="PayPal.Me"></a>
-  &nbsp;
-  <a href="https://commerce.coinbase.com/checkout/6ce7f823-8b16-4190-bde8-afadb618742a"><img src="https://img.shields.io/badge/coinbase-donate-gold.svg?colorB=ff8e00&logo=bitcoin" alt="Donate via Coinbase"></a>
-</p>
